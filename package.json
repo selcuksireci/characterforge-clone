@@ -2,6 +2,7 @@
   "name": "characterforge-clone",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://selcuksireci.github.io/characterforge-clone/",
   "type": "module",
   "scripts": {
     "dev": "vite",
