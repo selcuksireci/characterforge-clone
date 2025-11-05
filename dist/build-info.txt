@@ -1,0 +1,5 @@
+Built with `pnpm build` on 2025-11-05T12:11:34Z
+Assets:
+- dist/assets/index-DPEN9eQC.css
+- dist/assets/index-DzFNt4gL.js
+- dist/index.html
